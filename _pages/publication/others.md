@@ -1,11 +1,13 @@
 ## 💡 Others
 
-**[INS]**
-**[Deep random walk of unitary invariance for large-scale data representation](https://doi.org/10.1016/j.ins.2020.11.039)**,<br />
-    Shiping Wang, **Zhaoliang Chen**, William Zhu, Fei-Yue Wang <br />
-    *Information Sciences, Volume 554, Pages 1-14, 2021*. (<span style="color:red">**CCF B, SCI Q1**</span>)
-  
-**[PRCV 2021]**
-**[A unified modular framework with deep graph convolutional networks for multi-label image recognition](https://link.springer.com/chapter/10.1007/978-3-030-88007-1_5)**,<br />
-    Qifan Lin, **Zhaoliang Chen**, Shiping Wang, Wenzhong Guo <br />
-    *Pattern Recognition and Computer Vision, Volume 13020, Pages 54-65, 2021*. (<span style="color:red">**CCF C**</span>)
+**[]**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/HiTuner.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[IEEE TNNLS]**
+**[HiTuner: Hierarchical Semantic Fusion Model Fine-Tuning on Text-Attributed Graphs](https://www.ijcai.org/proceedings/2025/569)**,<br />
+    **Zihan Fang**, Zhaoliang Cai, Yuheng Zheng, Shide Du, Yuheng Tan, Shiping Wang. <br />
+    **Proceedings of the International Joint Conferences on Artificial Intelligence, 2025: 5110-5117*. \|  [\[code\]](https://github.com/ZihanFang11/HiTuner)
+
+</div></div>
