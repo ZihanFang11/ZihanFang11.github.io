@@ -69,6 +69,6 @@
 
 
 **[IEEE/CAA JAS]**
-**Contrastive consensus graph learning for multi-view clustering**,<br />
+**[Contrastive consensus graph learning for multi-view clustering](https://ieeexplore.ieee.org/abstract/document/9915491/)**,<br />
     Shiping Wang, Xincan Lin, **Zihan Fang**, Shide Du, Guobao Xiao <br />
     *IEEE/CAA Journal of Automatica Sinica*, 9(11): 2027-2030.
