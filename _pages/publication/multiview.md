@@ -1,4 +1,4 @@
-## 💡 Multi-view Learning
+## 💡 Multi-view Representation Learning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/AORL_TNNLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
