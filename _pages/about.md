@@ -31,11 +31,9 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 <sup>†</sup> indicates co-first author; * indicates corresponding author. <a href="https://scholar.google.com/citations?user=naPgEh4AAAAJ" target="_blank">Full List</a>
 </p>
 
-{% include_relative publication/GNNs.md %}
+{% include_relative publication/Openset.md %}
 
 {% include_relative publication/multiview.md %}
-
-{% include_relative publication/matrixCompletion.md %}
 
 {% include_relative publication/others.md %}
 
