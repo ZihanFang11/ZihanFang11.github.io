@@ -1,6 +1,6 @@
 ## 💡 Multi-view Learning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INF</div><img src='images/AORL_TNNLS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/AORL_TNNLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[IEEE TNNLS]**
@@ -11,12 +11,12 @@
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/DSRL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence Review</div><img src='images/SMMRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[Learning Deep Sparse Regularizers With Applications to Multi-View Clustering](https://doi.org/10.1109/TPAMI.2021.3082632)**,<br />
-   Shiping Wang, **Zhaoliang Chen**, Shide Du, Zhouchen Lin <br />
-   *IEEE Transactions on Pattern Analysis and Machine Intelligence, Volume 44(12), Pages 9124-9138, 2022*. (<span style="color:red">**CCF A, SCI Q1, ESI Highly Cited**</span>) \| [\[code\]](https://github.com/chenzl23/DSRL)
+**[Scalable Multi-Modal Representation Learning Networks](https://doi.org/10.1109/TPAMI.2021.3082632)**,<br />
+  **Zihan Fang**, Ying Zou, Shiqi Lan, Shide Du, Yuheng Tan, Shiping Wang <br />
+   *Artificial Intelligence Review*, 2025, 58(7): 209*.  \| [\[code\]](https://github.com/ZihanFang11/SMMRL)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TKDD</div><img src='images/MGCNDNS.jpg' alt="sym" width="100%"></div></div>
