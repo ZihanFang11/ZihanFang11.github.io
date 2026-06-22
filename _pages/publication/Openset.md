@@ -1,7 +1,7 @@
 ## 💡 Multi-view Open-set Learning
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/GVGAE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/MOCD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Enhancing Multi-view Open-set Learning via Ambiguity Uncertainty Calibration and View-wise Debiasing](https://dl.acm.org/doi/abs/10.1145/3746027.3755033)**,<br />
@@ -9,7 +9,7 @@
    *Proceedings of the 33rd ACM International Conference on Multimedia, 1220-1228*. \| [\[code\]](https://github.com/ZihanFang11/2025_MOCD_ACMMM) 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 202</div><img src='images/DLRGAE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 202</div><img src='images/AAML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Beyond the known: Ambiguity-aware multi-view learning](https://dl.acm.org/doi/abs/10.1145/3664647.3681362)**,<br />
