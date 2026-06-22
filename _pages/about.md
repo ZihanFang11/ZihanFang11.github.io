@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in Computer Science and Technology at the College of Computer and Data Science, Fuzhou University, supervised by Prof. Shiping Wang. My research interests include multi-view learning, open-set learning, uncertainty modeling, and reliable representation learning.
+I am currently a Ph.D. student in Computer Science and Technology at the College of Computer and Data Science, Fuzhou University, supervised by Prof. Shiping Wang. 
 I received my B.S. degree in Data Science and Big Data Technology from Fuzhou University in 2022.
- My research interests include multi-view learning, optimization-inspired deep learning and their applications. My studies have led to over 30 scientific publications <a href='https://scholar.google.com/citations?user=naPgEh4AAAAJ'></a> on top-tier conferences and journals.
+My research interests include multi-view learning, open-set learning, uncertainty modeling, and reliable representation learning. 
+My studies have led to over 30 scientific publications on top-tier conferences and journals.
 
 
 # 📖 Educations
