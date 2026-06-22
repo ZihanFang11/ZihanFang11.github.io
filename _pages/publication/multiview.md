@@ -37,32 +37,38 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/DBO-Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[DBO-Net: Differentiable bi-level optimization network for multi-view clustering](https://www.sciencedirect.com/science/article/pii/S0020025523000713)**,<br />
+**[DBO-Net: Differentiable Bi-level Optimization Network for Multi-view Clustering](https://www.sciencedirect.com/science/article/pii/S0020025523000713)**,<br />
   **Zihan Fang**, Shide Du, Xincan Lin, Jielong Yang, Shiping Wang, Yuhui Shi.  \| [\[code\]](https://github.com/ZihanFang11/2023_DBONet_INS)
 </div></div>
 
 
 **[IEEE TNSE]**
-**An Explainable and Flexible Plug-and-Play Multi-view Representation Learning Network**,<br />
-    S Du, **Z Fang**, Z Chen, Y Zou, A Huang <br />
-    *IEEE Transactions on Network Science and Engineering*, 2026.
+**[An Explainable and Flexible Plug-and-Play Multi-view Representation Learning Network](https://ieeexplore.ieee.org/abstract/document/11478651/)**,<br />
+    Shide Du, **Zihan Fang**, Zhaoliang Chen, Ying Zou, Aiping Huang <br />
+    *IEEE Transactions on Network Science and Engineering*, 13: 8612-8627, 2026.
     
 **[IEEE TMM]**
-**Interpretable Multi-view Representation Learning Towards Complex Scenes: From Homogeneity to Heterogeneity**,<br />
-    Y Zou, **Z Fang**, S Du, Y Wu, H Zhao, S Wang <br />
+**[Interpretable Multi-view Representation Learning Towards Complex Scenes: From Homogeneity to Heterogeneity](https://ieeexplore.ieee.org/abstract/document/11217315/)**,<br />
+    Ying Zou, **Zihan Fang**, Shide Du, Yilin Wu, Hong Zhao, Shiping Wang <br />
     *IEEE Transactions on Multimedia*, 2025.
 
 **[IEEE TMM]**
-**SOI-Net: Structural Optimization-inspired Interpretable Network for Incomplete Multi-view Clustering**,<br />
-    C Wu, **Z Fang**, Z Cai, S Du, W Huang, J Li, S Wang <br />
-    *IEEE Transactions on Multimedia*, 2025.
+**[SOI-Net: Structural Optimization-inspired Interpretable Network for Incomplete Multi-view Clustering](https://ieeexplore.ieee.org/abstract/document/11207563)**,<br />
+    Chunming Wu, **Zihan Fang**, Zhiling Cai, Shide Du, Wei Huang, Jinbo Li, Shiping Wang <br />
+    *IEEE Transactions on Multimedia*, 28: 196-208, 2025.
 
 **[Neural Networks]**
-**Revisiting multi-view learning: A perspective of implicitly heterogeneous graph convolutional network**,<br />
-    Y Zou, **Z Fang**, Z Wu, C Zheng, S Wang <br />
+**[Revisiting Multi-view Learning: A Perspective of Implicitly Heterogeneous Graph Convolutional Network](https://www.sciencedirect.com/science/article/pii/S0893608023006184)**,<br />
+    Ying Zou, **Zihan Fang**, Zhihao Wu, Chenghui Zheng, Shiping Wang <br />
     *Neural Networks*, 169: 496-505, 2024.
+
+**[AAAI 2025]**
+**[Largemvc-net: anchor-based deep unfolding network for large-scale multi-view clustering](https://dl.acm.org/doi/abs/10.1145/3746027.3755396)**,<br />
+    Shide Du, Chunming Wu, **Zihan Fang**, Wendi Zhao, Yilin Wu, Changwei Wang, Shiping Wang <br />
+    *Proceedings of the 33rd ACM International Conference on Multimedia*, 1714-1723.
+
 
 **[IEEE/CAA JAS]**
 **Contrastive consensus graph learning for multi-view clustering**,<br />
-    S Wang, X Lin, **Z Fang**, S Du, G Xiao <br />
+    Shiping Wang, Xincan Lin, **Zihan Fang**, Shide Du, Guobao Xiao <br />
     *IEEE/CAA Journal of Automatica Sinica*, 9(11): 2027-2030.
