@@ -1,11 +1,13 @@
 ## 💡 Multi-view Learning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INF</div><img src='images/LGCN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INF</div><img src='images/AORL_TNNLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-    
-**[Learnable Graph Convolutional Network and Feature Fusion for Multi-view Learning](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000532)**,<br />
-   **Zhaoliang Chen**, Lele Fu, Jie Yao, Wenzhong Guo, Claudia Plant, Shiping Wang <br />
-   *Information Fusion, Volume 95, Pages 109-119, 2023*. (<span style="color:red">**CAAI-A, SCI Q1, ESI Highly Cited**</span>) \| [\[code\]](https://github.com/chenzl23/LGCNFF)
+
+**[IEEE TNNLS]**
+**[Be Reliable: An Interpretable Attribute-Oriented Representation Learning Framework].(https://ieeexplore.ieee.org/abstract/document/11219320/)**,<br />
+**Zihan Fang**, Shide Du, Ying Zou, Yuheng Tan, Nannan Song, Shiping Wang.<br />
+*IEEE Transactions on Neural Networks and Learning Systems*, 2026, 37: 1134-1148.  [\[code\]](https://github.com/ZihanFang11/2025_AORLNet_TNNLS)
+
 </div></div>
 
 
