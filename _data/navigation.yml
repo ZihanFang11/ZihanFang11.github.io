@@ -3,26 +3,12 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Work Experience"
-    url: "/#-work-experience"
-
   - title: "Educations"
     url: "/#-educations"
-
-  - title: "Academic Service"
-    url: "/#-academic-service"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Awards"
-    url: "/#-awards"
-
-  - title: "Links"
-    url: "/#-links"
 
 
 
