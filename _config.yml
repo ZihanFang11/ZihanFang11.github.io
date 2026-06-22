@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhaoliang Chen - Homepage"
+title                    : "Zihan Fang - Homepage"
 description              : 
-repository               : "chenzl23/chenzl23.github.io"
+repository               : "ZihanFang11/ZihanFang11.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  G-0BX33QGV1M # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhaoliang Chen (陈赵亮)"
-  avatar           : "images/ZhaoliangChen.jpg"
-  bio              : "Hong Kong Baptist University"
-  location         : "Hong Kong SAR, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=LM0QNdQAAAAJ"
-  email            : "chenzl23@outlook.com"
+  name             : "Zihan Fang"
+  avatar           : "images/ZihanFang.svg"
+  bio              : "Fuzhou University"
+  location         : "Fuzhou, Fujian, China"
+  employer         : "College of Computer and Data Science, Fuzhou University"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=naPgEh4AAAAJ"
+  email            : "Fzihan11@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : chenzl23 # e.g., "github username"
+  github           : ZihanFang11
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : https://dblp.org/pid/153/3504.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : https://orcid.org/0000-0002-7832-908X   # e.g., "https://orcid.org/xxxx"
+  dblp             : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
