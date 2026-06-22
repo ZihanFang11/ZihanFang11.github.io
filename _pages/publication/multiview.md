@@ -16,7 +16,7 @@
   
 **[Scalable Multi-Modal Representation Learning Networks](https://link.springer.com/article/10.1007/s10462-025-11224-8)**,<br />
   **Zihan Fang**, Ying Zou, Shiqi Lan, Shide Du, Yuheng Tan, Shiping Wang <br />
-   *Artificial Intelligence Review*, 2025, 58(7): 209*.  \| [\[code\]](https://github.com/ZihanFang11/SMMRL)
+   *Artificial Intelligence Review*, 2025, 58(7): 209.  \| [\[code\]](https://github.com/ZihanFang11/SMMRL)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/ORLNet.png' alt="sym" width="100%"></div></div>
@@ -24,10 +24,10 @@
   
 **[Representation Learning Meets Optimization Derived Networks: From Single-View to Multi-View](https://ieeexplore.ieee.org/abstract/document/10491326)**,<br />
   **Zihan Fang**, Shide Du, Zhaoliang Cai, Shiqi Lan, Cheng Wu, Yuheng Tan, Shiping Wang. <br />
-   *IEEE Transactions on Multimedia*, 2024, 26: 8889-8901*.  \| [\[code\]](https://github.com/ZihanFang11/2024_TMM_ORLNet)
+   *IEEE Transactions on Multimedia*, 2024, 26: 8889-8901.  \| [\[code\]](https://github.com/ZihanFang11/2024_TMM_ORLNet)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICME</div><img src='images/DMLR-net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICME 2023</div><img src='images/DMLR-net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[DMRL-Net: Differentiable Multi-view Representation Learning Network](https://ieeexplore.ieee.org/abstract/document/10219789)**,<br />
@@ -35,7 +35,7 @@
    *Proceedings of the IEEE International Conference on Multimedia and Expo*, 2023: 1505-1510. 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences</div><img src='images/DBO-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/DBO-Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[DBO-Net: Differentiable bi-level optimization network for multi-view clustering](https://www.sciencedirect.com/science/article/pii/S0020025523000713)**,<br />
