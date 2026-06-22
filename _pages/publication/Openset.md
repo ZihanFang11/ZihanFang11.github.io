@@ -1,4 +1,4 @@
-## 💡 Graph Neural Networks
+## 💡 Multi-view Open-set Learning
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/GVGAE.png' alt="sym" width="100%"></div></div>
@@ -20,6 +20,10 @@
 
 **[AAAI 2025]**
 **[OpenViewer: Openness-Aware Multi-View Learning](https://ojs.aaai.org/index.php/AAAI/article/view/33800)**,<br />
-    Shide Du, **Zihan Fang**, Yuheng Tan, Cheng Wang, Shiping Wang, Wenjia Guo <br />
+    Shide Du, **Zihan Fang**, Yanchao Tan, Changwei Wang, Shiping Wang, Wenjia Guo <br />
     *Proceedings of the AAAI Conference on Artificial Intelligence, 39(15), 16389–16397.*.
     
+**[ACM MM 2023]**
+**[Bridging trustworthiness and open-world learning: An exploratory neural approach for enhancing interpretability, generalization, and robustness](https://dl.acm.org/doi/abs/10.1145/3581783.3612352)**,<br />
+    Shide Du, **Zihan Fang**, Shiyang Lan, Yanchao Tan, Manuel Günther, Shiping Wang, Wenjia Guo <br />
+     *Proceedings of the 31st ACM International Conference on Multimedia, 8719-8729*.
