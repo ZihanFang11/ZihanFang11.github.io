@@ -3,7 +3,6 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/AORL_TNNLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[IEEE TNNLS]**
 **[Be Reliable: An Interpretable Attribute-Oriented Representation Learning Framework](https://ieeexplore.ieee.org/abstract/document/11219320/)**,<br />
 **Zihan Fang**, Shide Du, Ying Zou, Yuheng Tan, Nannan Song, Shiping Wang.<br />
 *IEEE Transactions on Neural Networks and Learning Systems*, 2026, 37: 1134-1148.  [\[code\]](https://github.com/ZihanFang11/2025_AORLNet_TNNLS)
