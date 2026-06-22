@@ -27,7 +27,7 @@
    *IEEE Transactions on Multimedia*, 2024, 26: 8889-8901*.  \| [\[code\]](https://github.com/ZihanFang11/2024_TMM_ORLNet)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICME</div><img src='images/DMRL-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICME</div><img src='images/DMLR-net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[DMRL-Net: Differentiable Multi-view Representation Learning Network](https://ieeexplore.ieee.org/abstract/document/10219789)**,<br />
@@ -35,7 +35,7 @@
    *Proceedings of the IEEE International Conference on Multimedia and Expo*, 2023: 1505-1510. 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences</div><img src='images/DBO-net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences</div><img src='images/DBO-Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[DBO-Net: Differentiable bi-level optimization network for multi-view clustering](https://www.sciencedirect.com/science/article/pii/S0020025523000713)**,<br />
@@ -43,7 +43,27 @@
 </div></div>
 
 
-**[IEEE TSP]**
-**[Differentiable bi-Sparse multi-view co-clustering](https://doi.org/10.1109/TSP.2021.3101979)**,<br />
-    Shide Du, Zhanghui Liu, **Zhaoliang Chen**, Wenyuan Yang, Shiping Wang <br />
-    *IEEE Transactions on Signal Processing, Volume 69, Pages 4623-4636, 2021*. (<span style="color:red">**CCF B, SCI Q1**</span>)
+**[IEEE TNSE]**
+**An Explainable and Flexible Plug-and-Play Multi-view Representation Learning Network**,<br />
+    S Du, **Z Fang**, Z Chen, Y Zou, A Huang <br />
+    *IEEE Transactions on Network Science and Engineering*, 2026.
+    
+**[IEEE TMM]**
+**Interpretable Multi-view Representation Learning Towards Complex Scenes: From Homogeneity to Heterogeneity**,<br />
+    Y Zou, **Z Fang**, S Du, Y Wu, H Zhao, S Wang <br />
+    *IEEE Transactions on Multimedia*, 2025.
+
+**[IEEE TMM]**
+**SOI-Net: Structural Optimization-inspired Interpretable Network for Incomplete Multi-view Clustering**,<br />
+    C Wu, **Z Fang**, Z Cai, S Du, W Huang, J Li, S Wang <br />
+    *IEEE Transactions on Multimedia*, 2025.
+
+**[Neural Networks]**
+**Revisiting multi-view learning: A perspective of implicitly heterogeneous graph convolutional network**,<br />
+    Y Zou, **Z Fang**, Z Wu, C Zheng, S Wang <br />
+    *Neural Networks*, 169: 496-505, 2024.
+
+**[IEEE/CAA JAS]**
+**Contrastive consensus graph learning for multi-view clustering**,<br />
+    S Wang, X Lin, **Z Fang**, S Du, G Xiao <br />
+    *IEEE/CAA Journal of Automatica Sinica*, 9(11): 2027-2030.
